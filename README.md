@@ -1,6 +1,5 @@
 # Cat Coding — A Webview API
 
-Demonstrates VS Code's [webview API](https://code.visualstudio.com/api/extension-guides/webview). This includes:
 
 - Creating and showing a basic webview.
 - Dynamically updating a webview's content.
